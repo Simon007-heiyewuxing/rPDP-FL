@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 Then add all the path of all dependent modules to `PYTHONPATH` (in a manual or temporary way if you download this source code in ZIP format).
 ```bash
-export PYTHONPATH=$PYTHONPATH:/your/path/rpdp_fl:/your/path/rpdp_fl/myopacus:/your/path/rpdp_fl/torchdp:/your/path/rpdp_fl/experiemnts
+export PYTHONPATH=$PYTHONPATH:/your/path/rpdp_fl:/your/path/rpdp_fl/myopacus:/your/path/rpdp_fl/torchdp:/your/path/rpdp_fl/experiments
 ```
 
 # Running Experiments
